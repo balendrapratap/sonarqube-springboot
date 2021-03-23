@@ -29,7 +29,7 @@
     sudo yum install jenkins -y
     service jenkins start
 ## Sonarqube installation
-   [Sonarqube installaton](./sonarqube-installation.md)
+   [Sonarqube installaton](https://github.com/Naresh240/sonarqube-installation)
 ## Instll sonar-scanner
      cd /opt
      wget https://binaries.sonarsource.com/Distribution/sonar-scanner-cli/sonar-scanner-cli-4.4.0.2170-linux.zip
